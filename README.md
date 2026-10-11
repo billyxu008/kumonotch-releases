@@ -41,7 +41,7 @@ Everything else works without them.
 
 ## Privacy
 
-Kumo has no account, no server and no analytics. The app itself makes no network requests: your clipboard history, calendar and system stats stay on your Mac. Links you click (a meeting’s Join button, for example) open in your browser.
+Kumo has no account, no server and no analytics. The app itself makes no network requests: your clipboard history, calendar and system stats stay on your Mac. Links you click (a meeting’s Join button, for example) open in your browser. Full details: [privacy policy](https://billyxu.dev/privacy/) · [terms](https://billyxu.dev/terms/).
 
 ## Only download Kumo from here
 
@@ -62,7 +62,7 @@ Kumo 把 Mac 的刘海变成一块抬眼就能看的小面板：正在播放什�
 - **下载**：首个公开版本即将推出。点页面上方的 **Watch → Custom → Releases**，发布时会通知你。之后最新版永远在 [Releases](https://github.com/billyxu008/kumonotch-releases/releases/latest)。
 - **系统要求**：macOS 15 及以上，Apple 芯片和 Intel 都支持。没有刘海的屏幕会在顶部正中画一个（可以关掉）。
 - **权限**：日历和提醒事项用来显示日程；录屏权限只在用截图或录屏时才需要。其他功能都不需要授权。
-- **隐私**：没有账号、没有服务器、没有数据统计。App 本身不联网，剪贴板历史、日程和系统数据都只留在你的 Mac 上。
+- **隐私**：没有账号、没有服务器、没有数据统计。App 本身不联网，剪贴板历史、日程和系统数据都只留在你的 Mac 上。详见[隐私政策](https://billyxu.dev/zh/privacy/)和[服务条款](https://billyxu.dev/zh/terms/)。
 - **只从这里下载**：官方渠道只有 **kumonotch.com** 和**这个仓库**。
 - **反馈**：[提一个 issue](https://github.com/billyxu008/kumonotch-releases/issues)。哪里用着不顺手，我很想知道。
 
