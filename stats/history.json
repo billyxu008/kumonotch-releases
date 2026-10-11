@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-10-11",
+    "collectedAt": "2026-10-11T20:17:47Z",
+    "stars": 0,
+    "watchers": 0,
+    "forks": 0,
+    "downloads": {
+      "total": 0,
+      "byRelease": {},
+      "assets": []
+    },
+    "traffic": {
+      "views": 0,
+      "viewUniques": 0,
+      "clones": 0,
+      "cloneUniques": 0,
+      "daily": []
+    },
+    "referrers": [],
+    "paths": []
+  }
+]
