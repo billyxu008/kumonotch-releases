@@ -19,5 +19,62 @@
     },
     "referrers": [],
     "paths": []
+  },
+  {
+    "date": "2026-10-12",
+    "collectedAt": "2026-10-12T11:52:24Z",
+    "stars": 0,
+    "watchers": 0,
+    "forks": 0,
+    "downloads": {
+      "total": 7,
+      "byRelease": {
+        "v0.1.2": 3,
+        "v0.1.1": 1,
+        "v0.1.0": 3
+      },
+      "assets": [
+        {
+          "release": "v0.1.2",
+          "name": "KumoNotch-0.1.2.dmg",
+          "count": 0
+        },
+        {
+          "release": "v0.1.2",
+          "name": "KumoNotch.dmg",
+          "count": 3
+        },
+        {
+          "release": "v0.1.1",
+          "name": "KumoNotch-0.1.1.dmg",
+          "count": 0
+        },
+        {
+          "release": "v0.1.1",
+          "name": "KumoNotch.dmg",
+          "count": 1
+        },
+        {
+          "release": "v0.1.0",
+          "name": "Kumo-0.1.0.dmg",
+          "count": 0
+        },
+        {
+          "release": "v0.1.0",
+          "name": "Kumo.dmg",
+          "count": 3
+        }
+      ]
+    },
+    "traffic": {
+      "views": 0,
+      "viewUniques": 0,
+      "clones": 0,
+      "cloneUniques": 0,
+      "daily": []
+    },
+    "referrers": [],
+    "paths": [],
+    "trafficStale": true
   }
 ]
