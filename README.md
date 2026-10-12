@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/kumo-icon.png" width="128" height="128" alt="KumoNotch icon"></p>
+<p align="center"><img src="assets/kumonotch-icon.png" width="128" height="128" alt="KumoNotch icon"></p>
 
 <h1 align="center">KumoNotch</h1>
 
@@ -68,4 +68,4 @@ KumoNotch 把 Mac 的刘海变成一块抬眼就能看的小面板：正在播�
 
 ---
 
-<p align="center">Made by <a href="https://billyxu.dev/?utm_source=github&utm_medium=referral&utm_campaign=kumo&utm_content=releases-readme">Billy Xu</a> · © 2026 Billy Xu. Free to use; not open source.</p>
+<p align="center">Made by <a href="https://billyxu.dev/?utm_source=github&utm_medium=referral&utm_campaign=kumonotch&utm_content=releases-readme">Billy Xu</a> · © 2026 Billy Xu. Free to use; not open source.</p>

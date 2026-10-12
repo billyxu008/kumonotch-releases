@@ -26,7 +26,7 @@ async function api(path, auth = token) {
       accept: 'application/vnd.github+json',
       authorization: `Bearer ${auth}`,
       'x-github-api-version': '2022-11-28',
-      'user-agent': 'kumo-stats-collector',
+      'user-agent': 'kumonotch-stats-collector',
     },
   });
   if (!res.ok) {
